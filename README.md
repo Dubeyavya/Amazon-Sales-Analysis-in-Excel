@@ -59,7 +59,7 @@ Also completed a **Power BI version** of this project during my **Data Analyst i
 I’d love to hear your thoughts! Feel free to:
 - ⭐ Star this repository
 - 🐞 Report issues or suggestions
-- 🤝 Connect with me on [LinkedIn]([www.linkedin.com/in/avishee-dubey-152329278](https://www.linkedin.com/in/avishee-dubey-152329278/))
+🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/avishee-dubey-152329278/)
 
 ---
 
