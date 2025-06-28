@@ -35,6 +35,7 @@ Watch this 30-seconds interactive demo where I walk through slicer usage, macro 
 
 ## 📁 Project Files
 - `Amazon_Sales_Analysis_Excel.xlsm`: Main dashboard file with active macros
+-  `Sales data.xlsmx`: Sales Data file
 - `Dashboard_Snapshot.png`: Static snapshot of the dashboard
 - `ReadMe.md`: This file
 
