@@ -29,7 +29,7 @@ This project is developed as part of my **Business Analyst internship at InLighn
 ---
 
 ## 📽️ Walkthrough Video
-Watch this 30-seconds interactive demo where I walk through slicer usage, macro button functionality, and interpret various visualizations. *(Video link to be added once uploaded)*
+Watch 30-seconds interactive demo where I walk through slicer usage, macro button functionality, and interpret various visualizations. 
 
 ---
 
